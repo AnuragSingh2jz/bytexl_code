@@ -7,6 +7,7 @@ public class ex221 {
         Scanner sc = new Scanner(System.in);
         ArrayList<Integer> nums = new ArrayList<>();
         int sum=0;
+        
         System.out.println("If u want to stop the insertion of element type````` done`````");
         while(true){
             String input = sc.nextLine();
